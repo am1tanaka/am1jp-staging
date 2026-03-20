@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://am1.jp/assets/sitemap.xml
+Sitemap: https://am1tanaka.github.io/am1jp-staging/assets/sitemap.xml
